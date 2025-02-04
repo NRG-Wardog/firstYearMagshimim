@@ -74,8 +74,23 @@ The execution of the code depends on whether it requires parameters or not:
 
 ## Contact
 
-For any questions or discussions, feel free to reach out! **If you are a Magshimim student, do not copy! Preferably, do not even look.**
+For any questions or discussions, feel free to reach out! **If you are a Magshimim student, do not copy! Doing so is strictly prohibited and may result in disciplinary actions.**
 
 ---
 📌 **Note**: This project is part of my learning process in **Magshimim First Year** and represents my growth in programming and problem-solving.
+
+## License
+
+This project is protected under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License**.
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format.
+
+Under the following terms:
+- **No Unauthorized Copying** — Magshimim students are explicitly forbidden from copying, using, or distributing this material.
+- **Attribution** — You must give appropriate credit.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+See the full license at: [LICENSE](LICENSE)
 
